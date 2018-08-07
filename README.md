@@ -1,6 +1,6 @@
 # houdin
 
-[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/ruiquelhas--houdin.svg)](https://www.staging.guardrails.io)
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/ruiquelhas--houdin.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/ruiquelhas--houdin.svg)](https://www.guardrails.io)
 
 Route-level file type validation for [hapi](https://github.com/hapijs/hapi) parsed in-memory `multipart/form-data` request payloads. Also works as a standalone module.
 
